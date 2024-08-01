@@ -1,0 +1,14 @@
+org/example/DTO/pokemondto.class
+org/example/core/gender.class
+org/example/services/pokemonservices.class
+org/example/dao/pokemondao.class
+org/example/client/MainFunctionality.class
+org/example/resource/PokemonTrainerResource.class
+org/example/DTO/trainerdto.class
+org/example/core/trainer.class
+org/example/dao/trainerdao.class
+org/example/app/App.class
+org/example/services/trainerservices.class
+org/example/HibernateUtil.class
+org/example/core/pokemontype.class
+org/example/core/pokemon.class
